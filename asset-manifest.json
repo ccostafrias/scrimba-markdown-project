@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scrimba-markdown-project/static/css/main.05a3d234.css",
+    "main.js": "/scrimba-markdown-project/static/js/main.7e78f890.js",
+    "index.html": "/scrimba-markdown-project/index.html",
+    "main.05a3d234.css.map": "/scrimba-markdown-project/static/css/main.05a3d234.css.map",
+    "main.7e78f890.js.map": "/scrimba-markdown-project/static/js/main.7e78f890.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a3d234.css",
+    "static/js/main.7e78f890.js"
+  ]
+}
